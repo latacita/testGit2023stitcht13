@@ -23,7 +23,7 @@
 (20)	checkout develop
 (21)	branch feature/Ticket222
 (22)	checkout feature/Ticket220	fast-forward
-(24)	add bitacora.txt + commit "Paso 10"
+(24)	add bitacora.txt + commit "Paso 24"
 (25)	checkout develop
 (26)	merge feature/Ticket220		estando en develop		
 (27)	merge feature/Ticket221		estando en develop
@@ -31,5 +31,8 @@
 	edito bitacora.txt
         add bitacora.txt
         commit "conflictos arreglados"
-
-
+(29)	add bitacora.txt + commit "Paso 29"
+(30)	tag Step29
+(31)	push
+(32)	checkout feature/Ticket222
+(33)	merge develop			estando en feature/Ticket222
