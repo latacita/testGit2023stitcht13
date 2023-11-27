@@ -36,3 +36,8 @@
 (31)	push
 (32)	checkout feature/Ticket222
 (33)	merge develop			estando en feature/Ticket222
+(35)	add bitacora.txt + commit "Paso 35"
+(36)	checkout develop
+(37)	merge feature/Ticket222		estando en develop
+(38)	checkout master
+(39)    merge develop			estando en master
