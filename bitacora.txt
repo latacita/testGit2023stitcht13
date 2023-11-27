@@ -9,5 +9,7 @@
 (01)	clone https://github.com/latacita/testGit2023stitcht13.git
 (03)	add bitacora.txt + commit "Paso 03"
 (04)	push
-
+(06)	add bitacora.txt + commit "Paso 06"
+(07)	branch develop
+(08)	branch feature/Ticket220 + checkout feature/Ticket220
 
